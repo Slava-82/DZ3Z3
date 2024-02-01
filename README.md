@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <body style="background-color:powderblue;"> 
 
 # <span style='color: green;'>__Мой сайт__</span>
